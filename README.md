@@ -1,87 +1,117 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ahmed+Habib+%F0%9F%91%8B;DevOps+%26+Data+Engineer;Azure+Ecosystem+Specialist;Building+Pipelines+that+Scale)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0078D4&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ahmed+%F0%9F%91%8B;DevOps+%26+Data+Engineer;Azure+Ecosystem+Specialist)](https://git.io/typing-svg)
 
 **DevOps & Data Engineer · Azure Ecosystem · MSc Data Science @ FAU Erlangen**
 
-*Designing and automating data pipelines, cloud infrastructure, and CI/CD systems — from Azure Data Factory flows to Databricks transformations and end-to-end DevOps workflows.*
+*Designing and automating data pipelines, cloud infrastructure, and CI/CD systems —*
+*from Azure Data Factory flows to Databricks transformations and end-to-end DevOps workflows.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedhabibb22-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedhabibb22/)
-[![GitHub](https://img.shields.io/badge/GitHub-ahmedhabib01-181717?style=flat&logo=github&logoColor=white)](https://github.com/ahmedhabib01)
-[![Email](https://img.shields.io/badge/Email-ahmedhabibofficial@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedhabibofficial@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedhabibb22/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhabib01)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedhabibofficial@gmail.com)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ Who I Am
 
-I'm a **DevOps & Data Engineer** based in Germany, with a Masters in Data Science from Friedrich-Alexander University Erlangen-Nürnberg. My expertise is deep in the **Microsoft Azure ecosystem** — building robust data platforms, automating infrastructure, and shipping reliable CI/CD pipelines.
+```yaml
+name        : Ahmed Habib
+location    : Germany
+education   : MSc Data Science — FAU Erlangen-Nürnberg
+focus       : Data Engineering · DevOps · Cloud (Azure)
+superpower  : Turning messy data into reliable, automated pipelines
+```
+
+I build the infrastructure that makes data *actually usable* — ingestion, transformation, orchestration, CI/CD, monitoring. I care about things running in production, not just in notebooks.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Data Platform
-[![](https://skillicons.dev/icons?i=azure&perline=8)](https://skillicons.dev)
+**Cloud & Data Platform**
 
-| Tool | Purpose |
-|------|---------|
-| **Azure Data Factory** | Orchestrating ETL/ELT pipelines at scale |
-| **Azure Synapse Analytics** | Unified analytics — SQL pools, Spark, pipelines |
-| **Azure Databricks** | Big data processing & ML workloads on Spark |
-| **Azure DevOps** | Boards, Repos, Pipelines — full ALM |
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
 
-### 💻 Languages & Scripting
-[![](https://skillicons.dev/icons?i=python,cpp,powershell&perline=8)](https://skillicons.dev)
+**Languages & Scripting**
 
-### 🔄 DevOps & CI/CD
-[![](https://skillicons.dev/icons?i=docker,git,github,linux&perline=8)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
-`Azure DevOps Pipelines` · `YAML CI/CD` · `PowerShell Automation` · `ARM Templates` · `Terraform`
+**DevOps & Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🧠 ProductGraph AI
-> [![](https://skillicons.dev/icons?i=python,fastapi&theme=dark&perline=7)](https://skillicons.dev)
+> *Founding Data Engineer demo — end-to-end product data pipeline with a knowledge graph*
 
-An end-to-end data engineering showcase demonstrating how industrial product data can be collected from multiple sources, structured using a **local LLM (Ollama)**, and stored in a **Neo4j knowledge graph**. Built to demonstrate core Founding Data Engineer skills.
+Industrial product data collected from a **fake ERP API**, **XML files**, and **unstructured datasheets** — parsed by a local LLM, deduplicated, validated, and stored in a **Neo4j knowledge graph**. One command runs the whole thing.
 
-**What it does:**
-- Ingests product data from a fake ERP API, XML files, and unstructured datasheets
-- Uses a local LLM to extract structured data from documents
-- Normalizes, validates, and deduplicates products across sources
-- Loads everything into **Neo4j AuraDB** and tracks data quality metrics
+```
+Ingest → LLM Parse → Normalize → Deduplicate → Validate → Load to Neo4j → Monitor
+```
 
-`Python` · `FastAPI` · `Ollama (Local LLM)` · `Neo4j` · `GitHub Codespaces`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_LLM-grey?style=flat-square)
+![Codespaces](https://img.shields.io/badge/GitHub_Codespaces-181717?style=flat-square&logo=github&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/ahmedhabib01/productgraph-ai)
+[![View Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/ahmedhabib01/productgraph-ai)
 
 ---
 
 ### 🛒 Autonomous Shopping Trolley
-> [![](https://skillicons.dev/icons?i=python&theme=dark&perline=7)](https://skillicons.dev)
+> *Computer vision + sensor fusion for a self-navigating cart*
 
-A robotics and automation project implementing a self-navigating shopping trolley system using Python. Combines computer vision and sensor integration for autonomous cart movement.
+Python-based robotics project combining computer vision and sensor integration to build a trolley that navigates autonomously — no human steering required.
 
-`Python` · `Computer Vision` · `Robotics`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-grey?style=flat-square)
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/ahmedhabib01/Autnomous-Shopping-Trolley-)
+[![View Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/ahmedhabib01/Autnomous-Shopping-Trolley-)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=ahmedhabib01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&show=prs_merged,prs_merged_percentage)](https://github.com/ahmedhabib01)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhabib01&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent)](https://github.com/ahmedhabib01)
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedhabib01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github)](https://github.com/ahmedhabib01)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhabib01&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent)](https://github.com/ahmedhabib01)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedhabib01&hide_border=true&theme=transparent)](https://github.com/ahmedhabib01)
 
+</div>
+
 ---
 
-## 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedhabibb22/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhabib01)
+## 🤝 Let's Talk
+
+If you're building data infrastructure, cloud platforms, or DevOps pipelines — I'd love to connect.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedhabibb22/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedhabibofficial@gmail.com)
 
----
 
-Built with care · Germany 🇩🇪
+</div>
