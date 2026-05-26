@@ -49,25 +49,6 @@ A robotics/automation project implementing an autonomous shopping trolley system
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/ahmedhabib01/Autnomous-Shopping-Trolley-)
 
----
-
-### ⚙️ Azure Data Pipeline Projects
-> [![](https://skillicons.dev/icons?i=azure,python&theme=dark&perline=7)](https://skillicons.dev)
-
-End-to-end data engineering workflows using **Azure Data Factory**, **Synapse Analytics**, and **Databricks** — covering ingestion, transformation, and loading into analytical stores. Automated with **Azure DevOps CI/CD** pipelines.
-
-`Azure Ecosystem` · `ETL/ELT` · `DataOps`
-
----
-
-### 🤖 AI & Data Science Work
-> [![](https://skillicons.dev/icons?i=python,pytorch&theme=dark&perline=7)](https://skillicons.dev)
-
-Machine learning and data science projects from my MSc at FAU Erlangen — covering model development, data preprocessing, and applied AI research.
-
-`MSc Data Science @ FAU`
-
----
 
 ## 📊 GitHub Stats
 
@@ -81,7 +62,6 @@ Machine learning and data science projects from my MSc at FAU Erlangen — cover
 ## 🏆 Certifications & Education
 
 - 🎓 **MSc Data Science** — Friedrich-Alexander University Erlangen-Nürnberg (FAU)
-- 🏅 **Microsoft Azure** — *[Add your Azure certifications here, e.g. AZ-900, DP-203, AZ-400]*
 - 🏅 **HackerRank** — ahmedhabiboffic1
 
 ---
