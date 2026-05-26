@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **DevOps & Data Engineer** based in Germany, with an MSc in Data Science from Friedrich-Alexander University (FAU) Erlangen-Nürnberg. My expertise is deep in the **Microsoft Azure ecosystem** — building robust data platforms, automating infrastructure, and shipping reliable CI/CD pipelines.
+I'm a **DevOps & Data Engineer** based in Germany, with a Masters in Data Science from Friedrich-Alexander University Erlangen-Nürnberg. My expertise is deep in the **Microsoft Azure ecosystem** — building robust data platforms, automating infrastructure, and shipping reliable CI/CD pipelines.
 
 ---
 
@@ -40,15 +40,33 @@ I'm a **DevOps & Data Engineer** based in Germany, with an MSc in Data Science f
 
 ## 🚀 Featured Projects
 
+### 🧠 ProductGraph AI
+> [![](https://skillicons.dev/icons?i=python,fastapi&theme=dark&perline=7)](https://skillicons.dev)
+
+An end-to-end data engineering showcase demonstrating how industrial product data can be collected from multiple sources, structured using a **local LLM (Ollama)**, and stored in a **Neo4j knowledge graph**. Built to demonstrate core Founding Data Engineer skills.
+
+**What it does:**
+- Ingests product data from a fake ERP API, XML files, and unstructured datasheets
+- Uses a local LLM to extract structured data from documents
+- Normalizes, validates, and deduplicates products across sources
+- Loads everything into **Neo4j AuraDB** and tracks data quality metrics
+
+`Python` · `FastAPI` · `Ollama (Local LLM)` · `Neo4j` · `GitHub Codespaces`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/ahmedhabib01/productgraph-ai)
+
+---
+
 ### 🛒 Autonomous Shopping Trolley
-> [![py](https://skillicons.dev/icons?i=py&theme=dark&perline=7)](https://skillicons.dev)
+> [![](https://skillicons.dev/icons?i=python&theme=dark&perline=7)](https://skillicons.dev)
 
-A robotics/automation project implementing an autonomous shopping trolley system using Python. Combines computer vision and sensor integration to enable self-navigating cart functionality.
+A robotics and automation project implementing a self-navigating shopping trolley system using Python. Combines computer vision and sensor integration for autonomous cart movement.
 
-`Personal Project`
+`Python` · `Computer Vision` · `Robotics`
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/ahmedhabib01/Autnomous-Shopping-Trolley-)
 
+---
 
 ## 📊 GitHub Stats
 
@@ -59,17 +77,7 @@ A robotics/automation project implementing an autonomous shopping trolley system
 
 ---
 
-## 🏆 Certifications & Education
-
-- 🎓 **MSc Data Science** — Friedrich-Alexander University Erlangen-Nürnberg (FAU)
-- 🏅 **HackerRank** — ahmedhabiboffic1
-
----
-
 ## 🤝 Connect
-
-I'm open to full-time opportunities in **Data Engineering**, **DevOps**, or **Cloud Engineering** (Azure-focused). If you're building something in the data or cloud space — let's talk.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedhabibb22/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhabib01)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedhabibofficial@gmail.com)
